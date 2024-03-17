@@ -1,4 +1,4 @@
-### Hi there 👋
+### 둔한 말이라도 열흘 동안 수레를 끌면 능력 있는 말을 따라잡을 수 있다’ 항상, 노마십가(駑馬十駕)의 자세로 임하겠습니다. 
 
 ![pangdoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangdoon&show_icons=true)
 <br/>
